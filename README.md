@@ -4,6 +4,18 @@ An educational mobile game designed to help children learn how to sort waste int
 
 The player must identify incoming waste items and place them into the appropriate recycling bin. The game combines simple gameplay mechanics with progressive difficulty to make learning about recycling more engaging.
 
+## 🎥 Gameplay Demo
+
+[▶️ Watch the gameplay demonstration](./video_2026-05-29_02-03-00.mp4)
+
+In this mini-game, waste items move along a conveyor belt, and the player must sort them into the correct bins: Paper 📄, Plastic 🧴, Glass 🫙, or Organic 🍎.
+
+Correct choices increase the score and streak, while mistakes cost a life. ❤️ The game also features progressive difficulty, recycling tips, pause/restart controls, and a Game Over screen.
+
+A simple educational game designed to help children learn about recycling through interactive gameplay. 🌍♻️
+
+**Can you reach 100% and complete the progress around the planet? 🌎✨ Try it out now! ♻️🎮**
+
 ## 🎯 Project Purpose
 
 The project was developed as a **Bachelor's Degree / Licence project** focused on creating an interactive educational application for children in the field of recycling.
